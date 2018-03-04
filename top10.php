@@ -1,2 +1,10 @@
-<NAME>Category 1</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
-<NAME>Category 2</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Video 1</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>Video 2</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Video 3</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>Video 4</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Video 5</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>Video 6</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Video 7</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>Video 8</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Video 9</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>Video 10</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>

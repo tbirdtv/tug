@@ -1,2 +1,2 @@
-<NAME>Category 1</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
-<NAME>Category 2</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Asian</NAME><URL>https://github.com/tbirdtv/tug/master/c-asian.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>White</NAME><URL>https://github.com/tbirdtv/tug/master/c-white.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>

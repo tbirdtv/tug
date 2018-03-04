@@ -1,2 +1,2 @@
-<NAME>Category 1</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
-<NAME>Category 2</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Podcast 1</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>Podcast 2</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>

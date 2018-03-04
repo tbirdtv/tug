@@ -1,2 +1,4 @@
-<NAME>Category 1</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
-<NAME>Category 2</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Top 10 videos</NAME><URL>https://github.com/tbirdtv/tug/master/top10.php</URL><ICON></ICON><FANART></FANART><DESC>Top 10 best clips of all time.</DESC>
+<NAME>By ethnicity</NAME><URL>https://github.com/tbirdtv/tug/master/f-byethnicity.php</URL><ICON></ICON><FANART></FANART><DESC>Filter by ethnicity.</DESC>
+<NAME>By fetish</NAME><URL>https://github.com/tbirdtv/tug/master/f-byfetish.php</URL><ICON></ICON><FANART></FANART><DESC>Filter by ethnicity.</DESC>
+<NAME>Listen to podcasts</NAME><URL>https://github.com/tbirdtv/tug/master/f-podcasts.php</URL><ICON></ICON><FANART></FANART><DESC>Filter by ethnicity.</DESC>

@@ -1,2 +1,2 @@
-<NAME>Category 1</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
-<NAME>Category 2</NAME><URL>http:://xxx/.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
+<NAME>Hotwife</NAME><URL>https://github.com/tbirdtv/tug/master/c-hotwife.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 1</DESC>
+<NAME>Swinger</NAME><URL>https://github.com/tbirdtv/tug/master/c-swinger.php</URL><ICON></ICON><FANART></FANART><DESC>This is category 2</DESC>
